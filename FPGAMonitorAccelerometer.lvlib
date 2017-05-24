@@ -12,4 +12,5 @@
 	</Item>
 	<Item Name="MonitorAccelerometer.vi" Type="VI" URL="../MonitorAccelerometer.vi"/>
 	<Item Name="MonitorAccelerometerClock.vi" Type="VI" URL="../MonitorAccelerometerClock.vi"/>
+	<Item Name="README.txt" Type="Document" URL="../README.txt"/>
 </Library>
